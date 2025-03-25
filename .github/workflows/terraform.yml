@@ -1,4 +1,4 @@
-name: "Vprofile IAC"
+name: "Vprofile with IAC"
 
 on:
   push:
